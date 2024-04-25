@@ -8,7 +8,12 @@ function Header() {
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
             <a href="#!" target="_blank" rel="noreferrer">
-              Nice
+              About
+            </a>
+          </li>
+          <li>
+            <a href="#!" target="_blank" rel="noreferrer">
+              Contacts
             </a>
           </li>
         </ul>
